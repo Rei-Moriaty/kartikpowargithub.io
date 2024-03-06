@@ -14,7 +14,7 @@ name                     : &name "Kartik Powar"
 description              : &description "personal description"
 url                      : https://kartikpowar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Rei-Moriaty/kartikpowar.github.io"
+repository               : "kartikpowar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "Rei-Moriaty/kartikpowar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kartik Powar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data scientist and data engineer proficient in Microsoft Azure, Python, PySpark, and machine learning, specializing in demand forecasting and classification models for Microsoft Azure's Capacity Supply Chain and Planning Team at Accenture."
+  location         : "Bengaluru, Karnataka, India"
+  employer         : "Accenture"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kartikpowar310398@gmail.com" 
 
   # # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
